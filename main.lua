@@ -20,7 +20,7 @@ local CONFIG = {
     Name = "Hallwayz",
     Subtitle = "BY MAVERICK",
     Version = "v2.0.0",
-    KeysURL = "https://raw.githubusercontent.com/ZurraOfficial/Fly/main/keys.txt",
+    KeysURL = "https://raw.githubusercontent.com/ZurraOfficial/sagapung/main/keys.txt",
 }
 
 local Theme = {
